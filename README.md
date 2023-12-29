@@ -1,2 +1,2 @@
 # odin-recipes
-These are Odin Recipes!
+This websites is where you can find delicious and inspiring recipes from all over the Internet! 
